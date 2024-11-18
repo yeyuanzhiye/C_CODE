@@ -18,15 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -36,9 +32,10 @@
               "RelativeDocumentMoniker": "test_8_25\\test2.c",
               "ToolTip": "D:\\code\\C_CODE\\test\\test_8_25\\test_8_25\\test2.c",
               "RelativeToolTip": "test_8_25\\test2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-26T04:46:56.834Z"
+              "WhenOpened": "2024-08-26T04:46:56.834Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -46,12 +43,16 @@
               "Title": "test.c",
               "DocumentMoniker": "D:\\code\\C_CODE\\test\\test_8_25\\test_8_25\\test.c",
               "RelativeDocumentMoniker": "test_8_25\\test.c",
-              "ToolTip": "D:\\code\\C_CODE\\test\\test_8_25\\test_8_25\\test.c",
-              "RelativeToolTip": "test_8_25\\test.c",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAAAE8AAAARAAAAAAAAAA==",
+              "ToolTip": "D:\\code\\C_CODE\\test\\test_8_25\\test_8_25\\test.c*",
+              "RelativeToolTip": "test_8_25\\test.c*",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-25T13:04:12.385Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

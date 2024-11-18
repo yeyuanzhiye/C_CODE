@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\code\\test\\test_8_25\\",
+  "WorkspaceRootPath": "D:\\code\\C_CODE\\test\\test_8_25\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8329875-965A-4BCB-9F96-751F7487F116}|test_8_25\\test_8_25.vcxproj|D:\\code\\test\\test_8_25\\test_8_25\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8329875-965A-4BCB-9F96-751F7487F116}|test_8_25\\test_8_25.vcxproj|solutionrelative:test_8_25\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E8329875-965A-4BCB-9F96-751F7487F116}|test_8_25\\test_8_25.vcxproj|D:\\code\\C_CODE\\test\\test_8_25\\test_8_25\\test2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8329875-965A-4BCB-9F96-751F7487F116}|test_8_25\\test_8_25.vcxproj|solutionrelative:test_8_25\\test2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8329875-965A-4BCB-9F96-751F7487F116}|test_8_25\\test_8_25.vcxproj|D:\\code\\test\\test_8_25\\test_8_25\\test2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8329875-965A-4BCB-9F96-751F7487F116}|test_8_25\\test_8_25.vcxproj|solutionrelative:test_8_25\\test2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E8329875-965A-4BCB-9F96-751F7487F116}|test_8_25\\test_8_25.vcxproj|D:\\code\\C_CODE\\test\\test_8_25\\test_8_25\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8329875-965A-4BCB-9F96-751F7487F116}|test_8_25\\test_8_25.vcxproj|solutionrelative:test_8_25\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,41 +18,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\code\\C_CODE\\test\\test_8_25\\test_8_25\\test.c",
+              "RelativeDocumentMoniker": "test_8_25\\test.c",
+              "ToolTip": "D:\\code\\C_CODE\\test\\test_8_25\\test_8_25\\test.c",
+              "RelativeToolTip": "test_8_25\\test.c",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-25T13:04:12.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "test2.c",
-              "DocumentMoniker": "D:\\code\\test\\test_8_25\\test_8_25\\test2.c",
+              "DocumentMoniker": "D:\\code\\C_CODE\\test\\test_8_25\\test_8_25\\test2.c",
               "RelativeDocumentMoniker": "test_8_25\\test2.c",
-              "ToolTip": "D:\\code\\test\\test_8_25\\test_8_25\\test2.c",
-              "RelativeToolTip": "test_8_25\\test2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "ToolTip": "D:\\code\\C_CODE\\test\\test_8_25\\test_8_25\\test2.c*",
+              "RelativeToolTip": "test_8_25\\test2.c*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAnwEwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-26T04:46:56.834Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "test.c",
-              "DocumentMoniker": "D:\\code\\test\\test_8_25\\test_8_25\\test.c",
-              "RelativeDocumentMoniker": "test_8_25\\test.c",
-              "ToolTip": "D:\\code\\test\\test_8_25\\test_8_25\\test.c",
-              "RelativeToolTip": "test_8_25\\test.c",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-25T13:04:12.385Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
