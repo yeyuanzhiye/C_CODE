@@ -1,3 +1,0 @@
-﻿  test_9_3.c
-D:\code\C_CODE\test\test_9_3\test_9_3\test_9_3.c(11,17): warning C4013: “strlen”未定义；假设外部返回 int
-  test_9_3.vcxproj -> D:\code\C_CODE\test\test_9_3\x64\Debug\test_9_3.exe

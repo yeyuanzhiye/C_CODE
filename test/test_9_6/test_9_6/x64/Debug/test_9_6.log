@@ -1,5 +1,0 @@
-﻿  源.c
-D:\code\C_CODE\test\test_9_6\test_9_6\源.c(93,12): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
-D:\code\C_CODE\test\test_9_6\test_9_6\源.c(92,40): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-D:\code\C_CODE\test\test_9_6\test_9_6\源.c(99,9): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-  test_9_6.vcxproj -> D:\code\C_CODE\test\test_9_6\x64\Debug\test_9_6.exe
