@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\C_CODE\\\u626B\u96F7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC69432-8264-4572-86A7-8C176BE28D98}|\u626B\u96F7\\\u626B\u96F7.vcxproj|D:\\code\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\tool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CC69432-8264-4572-86A7-8C176BE28D98}|\u626B\u96F7\\\u626B\u96F7.vcxproj|solutionrelative:\u626B\u96F7\\tool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC69432-8264-4572-86A7-8C176BE28D98}|\u626B\u96F7\\\u626B\u96F7.vcxproj|D:\\code\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CC69432-8264-4572-86A7-8C176BE28D98}|\u626B\u96F7\\\u626B\u96F7.vcxproj|solutionrelative:\u626B\u96F7\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\C_CODE\\test\\easyx-2\\test_11_9_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\software\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include\\easyx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\software\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppClean.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yeyuanzhiye\\AppData\\Local\\Temp\\Rar$DIa26816.30340\\EI\u7B2C5\u6B21\u4F5C\u4E1A 24jbliao@stu.edu.cn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\tool.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u626B\u96F7\\tool.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\C_CODE\\test\\easyx-2\\test_11_9_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\C_CODE\\test\\easyx-2\\test_11_9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\C_CODE\\test\\easyx-2\\test_11_8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EI\u7B2C5\u6B21\u4F5C\u4E1A 24jbliao@stu.edu.cn.cpp",
+              "DocumentMoniker": "C:\\Users\\yeyuanzhiye\\AppData\\Local\\Temp\\Rar$DIa26816.30340\\EI\u7B2C5\u6B21\u4F5C\u4E1A 24jbliao@stu.edu.cn.cpp",
+              "ToolTip": "C:\\Users\\yeyuanzhiye\\AppData\\Local\\Temp\\Rar$DIa26816.30340\\EI\u7B2C5\u6B21\u4F5C\u4E1A 24jbliao@stu.edu.cn.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T11:51:39.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tool.hpp",
+              "DocumentMoniker": "D:\\code\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\tool.hpp",
+              "RelativeDocumentMoniker": "\u626B\u96F7\\tool.hpp",
+              "ToolTip": "D:\\code\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\tool.hpp",
+              "RelativeToolTip": "\u626B\u96F7\\tool.hpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T05:46:19.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.CppClean.targets",
+              "DocumentMoniker": "D:\\software\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppClean.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\software\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppClean.targets",
+              "ToolTip": "D:\\software\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppClean.targets",
+              "RelativeToolTip": "..\\..\\..\\software\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppClean.targets",
+              "ViewState": "AgIAAD8AAAAAAAAAAAASwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-15T05:20:02.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tool.h",
+              "DocumentMoniker": "D:\\code\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\tool.h",
+              "RelativeDocumentMoniker": "\u626B\u96F7\\tool.h",
+              "ToolTip": "D:\\code\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\tool.h",
+              "RelativeToolTip": "\u626B\u96F7\\tool.h",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAowCABAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T02:47:01.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\code\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\main.cpp",
+              "RelativeDocumentMoniker": "\u626B\u96F7\\main.cpp",
+              "ToolTip": "D:\\code\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\main.cpp",
+              "RelativeToolTip": "\u626B\u96F7\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T14:50:50.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "easyx.h",
+              "DocumentMoniker": "D:\\software\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include\\easyx.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\software\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include\\easyx.h",
+              "ToolTip": "D:\\software\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include\\easyx.h",
+              "RelativeToolTip": "..\\..\\..\\software\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include\\easyx.h",
+              "ViewState": "AgIAALAAAAAAAAAAAAAYwLwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T01:28:07.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test_11_9_3.cpp",
+              "DocumentMoniker": "D:\\code\\C_CODE\\test\\easyx-2\\test_11_9_3.cpp",
+              "RelativeDocumentMoniker": "..\\test\\easyx-2\\test_11_9_3.cpp",
+              "ToolTip": "D:\\code\\C_CODE\\test\\easyx-2\\test_11_9_3.cpp",
+              "RelativeToolTip": "..\\test\\easyx-2\\test_11_9_3.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T14:50:36.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "test_11_9_2.cpp",
+              "DocumentMoniker": "D:\\code\\C_CODE\\test\\easyx-2\\test_11_9_2.cpp",
+              "RelativeDocumentMoniker": "..\\test\\easyx-2\\test_11_9_2.cpp",
+              "ToolTip": "D:\\code\\C_CODE\\test\\easyx-2\\test_11_9_2.cpp",
+              "RelativeToolTip": "..\\test\\easyx-2\\test_11_9_2.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T14:50:36.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "test_11_9.cpp",
+              "DocumentMoniker": "D:\\code\\C_CODE\\test\\easyx-2\\test_11_9.cpp",
+              "RelativeDocumentMoniker": "..\\test\\easyx-2\\test_11_9.cpp",
+              "ToolTip": "D:\\code\\C_CODE\\test\\easyx-2\\test_11_9.cpp",
+              "RelativeToolTip": "..\\test\\easyx-2\\test_11_9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T14:50:36.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "test_11_8.cpp",
+              "DocumentMoniker": "D:\\code\\C_CODE\\test\\easyx-2\\test_11_8.cpp",
+              "RelativeDocumentMoniker": "..\\test\\easyx-2\\test_11_8.cpp",
+              "ToolTip": "D:\\code\\C_CODE\\test\\easyx-2\\test_11_8.cpp",
+              "RelativeToolTip": "..\\test\\easyx-2\\test_11_8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T14:50:34.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
