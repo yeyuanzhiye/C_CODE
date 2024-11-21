@@ -3,12 +3,30 @@
   "WorkspaceRootPath": "D:\\yeyuanzhiye\\C_CODE\\\u626B\u96F7\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9CC69432-8264-4572-86A7-8C176BE28D98}|\u626B\u96F7\\\u626B\u96F7.vcxproj|D:\\yeyuanzhiye\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\entry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CC69432-8264-4572-86A7-8C176BE28D98}|\u626B\u96F7\\\u626B\u96F7.vcxproj|solutionrelative:\u626B\u96F7\\entry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC69432-8264-4572-86A7-8C176BE28D98}|\u626B\u96F7\\\u626B\u96F7.vcxproj|D:\\yeyuanzhiye\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\draw.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CC69432-8264-4572-86A7-8C176BE28D98}|\u626B\u96F7\\\u626B\u96F7.vcxproj|solutionrelative:\u626B\u96F7\\draw.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9CC69432-8264-4572-86A7-8C176BE28D98}|\u626B\u96F7\\\u626B\u96F7.vcxproj|D:\\yeyuanzhiye\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\tool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9CC69432-8264-4572-86A7-8C176BE28D98}|\u626B\u96F7\\\u626B\u96F7.vcxproj|solutionrelative:\u626B\u96F7\\tool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9CC69432-8264-4572-86A7-8C176BE28D98}|\u626B\u96F7\\\u626B\u96F7.vcxproj|D:\\yeyuanzhiye\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CC69432-8264-4572-86A7-8C176BE28D98}|\u626B\u96F7\\\u626B\u96F7.vcxproj|solutionrelative:\u626B\u96F7\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC69432-8264-4572-86A7-8C176BE28D98}|\u626B\u96F7\\\u626B\u96F7.vcxproj|D:\\Download\\bitbug_favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9CC69432-8264-4572-86A7-8C176BE28D98}|\u626B\u96F7\\\u626B\u96F7.vcxproj|D:\\yeyuanzhiye\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9CC69432-8264-4572-86A7-8C176BE28D98}|\u626B\u96F7\\\u626B\u96F7.vcxproj|solutionrelative:\u626B\u96F7\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Windows Kits\\10\\Source\\10.0.22621.0\\ucrt\\startup\\onexit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +36,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +48,89 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "resource.h",
+              "DocumentMoniker": "D:\\yeyuanzhiye\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\resource.h",
+              "RelativeDocumentMoniker": "\u626B\u96F7\\resource.h",
+              "ToolTip": "D:\\yeyuanzhiye\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\resource.h",
+              "RelativeToolTip": "\u626B\u96F7\\resource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T14:29:14.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bitbug_favicon.ico - Icon [64x64, 32 \u4F4D, BMP]",
+              "DocumentMoniker": "D:\\Download\\bitbug_favicon.ico",
+              "RelativeDocumentMoniker": "..\\..\\..\\Download\\bitbug_favicon.ico",
+              "ToolTip": "D:\\Download\\bitbug_favicon.ico - Icon [64x64, 32 \u4F4D, BMP]",
+              "RelativeToolTip": "..\\..\\..\\Download\\bitbug_favicon.ico - Icon [64x64, 32 \u4F4D, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-11-21T14:17:51.352Z",
+              "EditorCaption": " - Icon [64x64, 32 \u4F4D, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "tool.h",
               "DocumentMoniker": "D:\\yeyuanzhiye\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\tool.h",
               "RelativeDocumentMoniker": "\u626B\u96F7\\tool.h",
               "ToolTip": "D:\\yeyuanzhiye\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\tool.h",
               "RelativeToolTip": "\u626B\u96F7\\tool.h",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKUAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-15T02:47:01.022Z",
+              "WhenOpened": "2024-11-21T13:42:02.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "entry.h",
+              "DocumentMoniker": "D:\\yeyuanzhiye\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\entry.h",
+              "RelativeDocumentMoniker": "\u626B\u96F7\\entry.h",
+              "ToolTip": "D:\\yeyuanzhiye\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\entry.h",
+              "RelativeToolTip": "\u626B\u96F7\\entry.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T12:51:53.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "onexit.cpp",
+              "DocumentMoniker": "D:\\Windows Kits\\10\\Source\\10.0.22621.0\\ucrt\\startup\\onexit.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Windows Kits\\10\\Source\\10.0.22621.0\\ucrt\\startup\\onexit.cpp",
+              "ToolTip": "D:\\Windows Kits\\10\\Source\\10.0.22621.0\\ucrt\\startup\\onexit.cpp",
+              "RelativeToolTip": "..\\..\\..\\Windows Kits\\10\\Source\\10.0.22621.0\\ucrt\\startup\\onexit.cpp",
+              "ViewState": "AgIAALcAAAAAAAAAAAAWwMsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T12:44:10.921Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "draw.h",
+              "DocumentMoniker": "D:\\yeyuanzhiye\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\draw.h",
+              "RelativeDocumentMoniker": "\u626B\u96F7\\draw.h",
+              "ToolTip": "D:\\yeyuanzhiye\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\draw.h",
+              "RelativeToolTip": "\u626B\u96F7\\draw.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T12:35:38.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\yeyuanzhiye\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\main.cpp",
               "RelativeDocumentMoniker": "\u626B\u96F7\\main.cpp",
               "ToolTip": "D:\\yeyuanzhiye\\C_CODE\\\u626B\u96F7\\\u626B\u96F7\\main.cpp",
               "RelativeToolTip": "\u626B\u96F7\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-14T14:50:50.213Z",
               "EditorCaption": ""

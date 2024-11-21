@@ -18,10 +18,29 @@
     <ClInclude Include="tool.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="draw.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="entry.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="扫雷.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Download\bitbug_favicon.ico">
+      <Filter>资源文件</Filter>
+    </Image>
   </ItemGroup>
 </Project>
