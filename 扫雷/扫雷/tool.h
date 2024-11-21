@@ -1,3 +1,5 @@
+//头文件等
+
 #pragma onceR
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
@@ -7,27 +9,14 @@
 #include <mmsystem.h>
 #pragma comment(lib,"winmm.lib")
 
+//变量声明区
+
+clock_t startTime; // 记录游戏开始时的时间
 // 定义全局指针，用于动态分配内存
 int** mine = NULL;
-
 int rows = 9;//行数
 int cols=9;//列数
 int mine_num=19;//雷数
-
-// 定义最大行数、列数和雷数
-#define MAX_ROWS 40
-#define MAX_COLS 25
-#define MAX_MINES 1000
-
-#define IMG_SIZE 40//单格大小
-
-//载入图片
-IMAGE img[13];
-int num = 0;//已打开的非雷格数
-int mx;//鼠标所在格行数
-int my;//鼠标所在格列数
-bool stop = false;//是否停止鼠标操作
-bool revoke = false;//是否启用撤回功能
 //菜单窗口大小
 int x = 1280;
 int y = 720;
@@ -45,12 +34,27 @@ int address[8][4] = {
 int selectedDifficulty = -1; // 记录被选中的难度
 int lastSelectedButton = -1; // 记录上一次被选中的难度
 char lastSelectedButtonname[100] = "";// 记录上一次被选中的难度名
+// 定义最大行数、列数和雷数
+#define MAX_ROWS 40
+#define MAX_COLS 25
+#define MAX_MINES 1000
+#define IMG_SIZE 40//单格大小
 
-void gameinit(int rows, int cols, int mine_num)
+//载入图片
+IMAGE img[13];
+int num = 0;//已打开的非雷格数
+int mx;//鼠标所在格行数
+int my;//鼠标所在格列数
+bool stop = false;//是否停止鼠标操作
+bool revoke = false;//是否启用撤回功能
+
+//函数声明区
+
+void gameinit(int rows, int cols, int mine_num)//初始化游戏
 {
 	stop = false;//允许鼠标在游戏中的操作
 	//创建窗口
-	initgraph(rows * IMG_SIZE, cols * IMG_SIZE, EX_SHOWCONSOLE);
+	initgraph(rows * IMG_SIZE, cols * IMG_SIZE + IMG_SIZE, EX_SHOWCONSOLE);
 	//加载游戏资源
 	char filename[666];
 	for (int i = 0; i < 13; i++)
@@ -107,6 +111,8 @@ void gameinit(int rows, int cols, int mine_num)
 			mine[i][j] += 20;//全部加20遮掩
 		}
 	}
+	// 初始化最后开始计时
+	startTime = clock();
 }
 void drawCoveredCell(int x, int y) {
 	putimage(x, y, &img[10]); // 绘制遮掩格
@@ -121,6 +127,8 @@ void drawExplodedCell(int x, int y) {
 	putimage(x, y, &img[12]); // 绘制爆炸效果
 }
 void gameDraw() {
+	BeginBatchDraw();
+
 	for (int i = 1; i <= rows; i++) {
 		for (int j = 1; j <= cols; j++) {
 			int x = (i - 1) * IMG_SIZE;
@@ -140,6 +148,27 @@ void gameDraw() {
 			}
 		}
 	}
+	 // 绘制状态栏
+    setfillcolor(RGB(102, 204, 255)); // 设置状态栏填充颜色
+	solidrectangle(0, getheight()-IMG_SIZE, getwidth(), getheight()); // 填充状态栏，假设状态栏高度为 30
+
+    // 显示当前时间
+    clock_t currentTime = clock();
+    double timeSpent = (double)(currentTime - startTime) / CLOCKS_PER_SEC;
+    char timeStr[100];
+    char numStr[100];
+    sprintf(timeStr, "用时: %.2f 秒", timeSpent);
+    sprintf(numStr, "未开非雷格: %d",rows * cols - mine_num-num);
+
+    // 设置字体颜色
+    settextcolor(WHITE);
+    // 设置字体样式
+    settextstyle(20, 0, _T("Consolas")); // 设置字体大小和样式
+
+    // 在状态栏显示时间
+    outtextxy(10, getheight() - IMG_SIZE+10, timeStr); // 显示时间
+	outtextxy(getwidth()/2, getheight() - IMG_SIZE + 10, numStr); // 显示剩余未打开的非雷格数
+	EndBatchDraw();
 }
 void open(int r, int c) {
 	if (mine[r][c] == 0)// 若该位置为空格，则周围无雷
@@ -191,9 +220,9 @@ void mouseClick()
 		}
 	}
 }
-bool isOver()
+bool isOver()//判定游戏是否结束
 {
-	if (mine[mx][my] == 9)
+	if (mine[mx][my] == 9)//点到雷了
 	{
 		stop = true;//禁用鼠标在游戏中的操作
 		mine[mx][my] += 100;
@@ -226,7 +255,7 @@ bool isOver()
 			}
 		}
 	}
-	if (num == rows * cols - mine_num)
+	if (num == rows * cols - mine_num)//打开格子数等于总个数-雷数-->赢了
 	{
 		stop = true;//禁用鼠标在游戏中的操作
 		PlaySound("audio/Victory.wav", NULL, SND_FILENAME | SND_ASYNC);//播放胜利音效（wav）
