@@ -39,7 +39,7 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\..\Download\bitbug_favicon.ico">
+    <Image Include="img\yeyuanzhiye.ico">
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>

@@ -140,7 +140,7 @@
     <ResourceCompile Include="扫雷.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\..\Download\bitbug_favicon.ico" />
+    <Image Include="img\yeyuanzhiye.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
